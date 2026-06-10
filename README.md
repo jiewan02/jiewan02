@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CS & Cognitive Science undergrad at Johns Hopkins University.<br>💻 Passionate about building AI-driven software and exploring Deep Learning.<br>🧠 Interests: Computer Vision, NLP, and HCI.<br>🛠️ Currently working with Python, React, and LLMs.
+🎓 CS & Cognitive Science undergrad at Johns Hopkins University.<br>💻 Passionate about building AI-driven software and exploring Deep Learning.<br>🧠 Interests: Computer Vision, NLP<br>🛠️ Currently working with Python, React, and LLMs.
 
 
 # 💻 Tech Stack:
